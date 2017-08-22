@@ -1,0 +1,14 @@
+[
+  {
+    "utterance": "What is the best way to deploy web apps?",
+    "response": "Using Heroku pipelines"
+  },
+  {
+    "utterance": "What is the best deployment process?",
+    "response": "Using Heroku pipelines"
+  },
+  {
+    "utterance": "What is the best hosting platform?",
+    "response": "Heroku"
+  }
+]

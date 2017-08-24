@@ -8,7 +8,7 @@
     "utterances": [
       "How do I mock Android objects?",
       "What is the best library for mocking?"
-    ]
+    ],
     "response": "You should use Mockito library"
   }
 ]

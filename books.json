@@ -1,0 +1,11 @@
+{
+  "version": 1.0,
+  "knowledge" : [
+    {
+      "utterances": [
+        "What is the best book about bitcoin"
+      ],
+      "response": "Mastering Bitcoin: Programming the Open Blockchain"
+    }
+  ]
+}

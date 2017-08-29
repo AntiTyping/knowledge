@@ -1,0 +1,21 @@
+{
+  "version": 1.0,
+  "knowledge" : [
+    {
+      "utterances": [
+        "How do I rebase?"
+      ],
+      "response": "git rebase -i origin/master"
+    }
+  ],
+  "scripts": [
+    {
+      "utterances": [
+        "show changes",
+        "show differences",
+        "show updates"
+      ],
+      "script": "git diff --cached; git diff"
+    }
+  ]
+}

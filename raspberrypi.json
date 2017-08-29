@@ -1,11 +1,11 @@
 {
   "version": 1.0,
-  "knowledge" : [
+  "scripts" : [
     {
       "utterances": [
         "find pi"
       ],
-      "response": "sudo nmap -sP 192.168.4.0/24 | awk '/^Nmap/{ip=$NF}/B8:27:EB/{print ip}'"
+      "script": "sudo nmap -sP 192.168.4.0/24 | awk '/^Nmap/{ip=$NF}/B8:27:EB/{print ip}'"
     }
   ]
 }

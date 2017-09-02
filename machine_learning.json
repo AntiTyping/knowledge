@@ -1,0 +1,11 @@
+{
+  "version": 1.0,
+  "responses" : [
+    {
+      "utterances": [
+        "What are the best AI courses?"
+      ],
+      "response": "Fast.ai MOOC http://course.fast.ai"
+    }
+  ]
+}

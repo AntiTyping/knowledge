@@ -6,6 +6,12 @@
         "What are the best AI courses?"
       ],
       "response": "Fast.ai MOOC http://course.fast.ai"
+    },
+    {
+      "utterances": [
+        "How to install AI tools?"
+      ],
+      "response": "Install for AWS, Azure, Linux, Mac OS, and Windows http://wiki.fast.ai/index.php/Installation"
     }
   ]
 }

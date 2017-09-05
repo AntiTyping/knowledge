@@ -5,6 +5,7 @@
       "utterances": [
         "show network",
         "show network traffic"
+        
       ],
       "script": "tcpdump -i lo0 -l -w - port 3000 | tcpflow -C -r -"
     }

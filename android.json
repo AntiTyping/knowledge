@@ -1,14 +1,20 @@
 [
+  "version": 1.0,
   {
-    "utterance": "How do I test Android apps?",
+    "utterances": ["How do I test Android apps?"],
     "response": "You can read more about Android testing at https://developer.android.com/training/testing/start/index.html"
   },
   {
-    "utterance": "How do I mock Android objects?",
     "utterances": [
       "How do I mock Android objects?",
       "What is the best library for mocking?"
     ],
     "response": "You should use Mockito library"
-  }
+  },
+    {
+      "utterances": [
+        "How to mark folder as source?"
+      ],
+      "response": "Press Shift + Cmd + a and type 'Mark Directory as'"
+    }
 ]

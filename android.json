@@ -17,6 +17,13 @@
         "How to mark folder as source?"
       ],
       "response": "Press Shift + Cmd + a and type Mark Directory as"
+    },
+    {
+      "utterances": [
+        "How to test Android apps?"
+      ],
+      "response": "Use the following libraries: Roboelectric, AsserJ, and Mockito"
     }
+
   ]
 }
